@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url(https://fonts.googleapis.com/css?family=Mooli:regular);
+
+body {
+  font-family: 'Mooli', sans-serif;
+  overflow-x: hidden;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
